@@ -1,0 +1,15 @@
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.csproj.AssemblyReference.cache
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.AssemblyInfoInputs.cache
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.AssemblyInfo.cs
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\bin\Debug\net6.0\FindDuplicates.exe
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\bin\Debug\net6.0\FindDuplicates.deps.json
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\bin\Debug\net6.0\FindDuplicates.runtimeconfig.json
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\bin\Debug\net6.0\FindDuplicates.dll
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\bin\Debug\net6.0\FindDuplicates.pdb
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.dll
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\refint\FindDuplicates.dll
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.pdb
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\FindDuplicates.genruntimeconfig.cache
+C:\Users\christy\Desktop\GTPChallengeSolutions\FindDuplicates\obj\Debug\net6.0\ref\FindDuplicates.dll
